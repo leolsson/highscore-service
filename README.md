@@ -1,2 +1,2 @@
 # highscore-service
-A rest service for managing i high-score list
+A rest service for managing a high-score list
